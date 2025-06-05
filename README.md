@@ -84,7 +84,7 @@ spring.mail.properties.mail.smtp.starttls.enable=true
 ### 🔸 API Endpoint
 
 ```
-POST http://localhost:8080/api/email/send
+POST http://localhost:8080/email/send
 ```
 
 ### 🔸 Parameters
